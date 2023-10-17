@@ -1,4 +1,4 @@
-<!DOCTYPE html> ben
+<!DOCTYPE html>
 <html>
 <head>
     <link rel="stylesheet" type="text/css" href="styles.css">
